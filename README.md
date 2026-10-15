@@ -1,2 +1,2 @@
-# Tool-Bazaar-max-
+# toolbazaar.org
 Artificial intelligence search programs 
